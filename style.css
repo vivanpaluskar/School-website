@@ -1,0 +1,15 @@
+body {
+ margin: 0px;
+ padding: 0px;
+}
+
+.dropdown {
+ left: auto;
+}
+
+.vocal {
+ padding: 5px;
+ padding-bottom: 8px;
+ margin-bottom: 5px;
+ border-radius: 15px;
+}
